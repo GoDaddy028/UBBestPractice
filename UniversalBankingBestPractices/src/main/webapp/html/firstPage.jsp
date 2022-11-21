@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Universl Banking/title>
+<title>Universal Banking /title>
 </head>
 <body>
   <!-- Page Loader -->
